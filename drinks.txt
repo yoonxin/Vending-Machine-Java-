@@ -1,0 +1,8 @@
+D001,Coca Cola,0,2.5
+D002,Cola Zero,40,2.5
+D003,Fanta Orange,40,2.5
+D004,Fanta Grape,49,3.0
+D005,Seven Up,55,2.5
+D006,Pepsi,54,2.5
+D007,Sprite,48,2.5
+D008,Mineral Water,53,1.5
